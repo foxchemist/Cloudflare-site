@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{"title":"Home","text":" This website is under construction Copyright © 2021 foxchemist.com All rights reserved.","tags":"","url":"index.html","UUID":"8EEF6D81625340D4A5D336ABD8614D93"}]};
+var tipuesearch = {"pages": [{"title":"Home","text":" This website is under construction Copyright © 2022 foxchemist.com All rights reserved.","tags":"","url":"index.html","UUID":"8EEF6D81625340D4A5D336ABD8614D93"}]};
